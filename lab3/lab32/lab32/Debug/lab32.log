@@ -1,0 +1,6 @@
+﻿  ShortestPath.cpp
+  main.cpp
+f:\3\lab32\lab32\main.cpp(19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab32.vcxproj -> F:\3\lab32\Debug\lab32.exe
+  lab32.vcxproj -> F:\3\lab32\Debug\lab32.pdb (Partial PDB)

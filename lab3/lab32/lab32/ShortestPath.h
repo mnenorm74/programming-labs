@@ -1,0 +1,1 @@
+void FindShortPath(int **matrix, int size, int startVertex, int finishVertex);
